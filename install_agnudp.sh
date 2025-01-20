@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="vpn.khaledagn.com"
+DOMAIN="ws.speednetbrowsing.uk"
 
 # PROTOCOL
 PROTOCOL="udp"
