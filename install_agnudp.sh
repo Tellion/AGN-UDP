@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="ws.speednetbrowsing.uk"
+DOMAIN="wss.speednetbrowsing.uk"
 
 # PROTOCOL
 PROTOCOL="udp"
@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="teslassh"
+OBFS="vvip"
 
 # PASSWORDS
-PASSWORD="teslassh"
+PASSWORD="4713"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
