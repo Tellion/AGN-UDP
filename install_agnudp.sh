@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="agnudp"
+OBFS="vvip"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="4713"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
