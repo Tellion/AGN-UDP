@@ -25,7 +25,7 @@ UDP_PORT=":36712"
 OBFS="vvip"
 
 # PASSWORDS
-PASSWORD="4713"
+PASSWORD="vvip"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
