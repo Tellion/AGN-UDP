@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="vvip"
+OBFS="vpnserver"
 
 # PASSWORDS
-PASSWORD="vvip"
+PASSWORD="vpnserver"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
