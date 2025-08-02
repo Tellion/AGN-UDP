@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="hone"
+OBFS="momo"
 
 # PASSWORDS
-PASSWORD="0000"
+PASSWORD="momo1"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
