@@ -25,7 +25,7 @@ UDP_PORT=":36712"
 OBFS="momo"
 
 # PASSWORDS
-PASSWORD="momo1"
+PASSWORD="vvipmomo"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
