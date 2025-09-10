@@ -13,7 +13,7 @@ set -e
 ###
 
 # Domain Name
-DOMAIN="wss.speednetbrowsing.uk"
+DOMAIN="de1.speednetbrowsing.uk"
 
 # PROTOCOL
 PROTOCOL="udp"
